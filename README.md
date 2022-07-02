@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/leonardofn/leonardofn/assets/snake.svg" alt="Snake animation" />
+<img href="https://github.com/leonardofn/leonardofn/blob/main/assets/snake.svg" alt="Snake animation" />
 
 ###
 
